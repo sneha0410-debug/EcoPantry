@@ -1,0 +1,18 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+th {
+  background: #f4f4f4;
+}
+
+form input, form button {
+  margin: 5px 0;
+  padding: 6px;
+}
