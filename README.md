@@ -32,6 +32,3 @@ git clone https://github.com/<your-username>/EcoPantry.git
 ```
 2. Activate the plugin from WordPress Admin → Plugins.
 3. The database tables (wp_pantry_items and wp_food_master) will be created automatically on activation.
-
-```bash
-git clone https://github.com/<your-username>/EcoPantry.git
